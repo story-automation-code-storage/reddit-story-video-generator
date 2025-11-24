@@ -1,0 +1,151 @@
+sfx_id,file_name,category,Original File Name,script_delay,impact_level,level_1_impact,level_2_impact,level_3_impact,level_4_impact,level_5_impact,level_6_impact,level_7_impact,level_8_impact,level_9_impact,level_10_impact
+SFX_001,SFX_001.wav,impact,among_us_suspect,2.7,used most,"""I posted a gym selfie at 6 AM and my coworker texted me 'looking good' [SUS] at 6:03 AM [SUS]. Bro, you're supposed to be asleep. Why are you watching my Instagram in real-time?"" [SUS]","""I was at Starbucks and the barista handed me my drink with a note on it that said, 'I noticed you stopped adding caramel three weeks ago. [SUS] Health kick or just changing it up? [SUS] Either way, you look great.' [SUS] Sir, I just want my coffee, not a timeline of my order history.""","""My barber said, 'How's your dog doing? The golden retriever, right?' [SUS] I've never mentioned my dog to him. [SUS] He saw the confused look on my face and said, 'Oh, I think I saw you at the park once.' [SUS] I don't go to that park.""","""I was riding in the back of the Uber and everything seemed normal at first. Then he looked at me through the rearview mirror and said, 'You know, I'm giving you a ride right now [SUS]... but what about you giving me a ride back at my place if you're okay with sharing?' [SUS] Then he winked."" [SUS]","""My dentist called me three days after my appointment and said, 'Hey, I saw you were at Whole Foods yesterday around 2 PM. [SUS] You walked right past me in the parking lot.' [SUS] I said, 'Oh, I didn't see you!' He said, 'Yeah, you were on your phone. [SUS] You were wearing that green jacket from your Instagram post.' [SUS] I asked how he knew my Instagram and he got quiet, then said, 'Uh, you must have mentioned it during your cleaning.' [SUS] I absolutely did not."" [SUS]","""I matched with someone on Hinge and after chatting for two days, he said, 'I looked you up [SUS]—your LinkedIn says you work at that marketing firm downtown, right? [SUS] I drove by there yesterday to see if I could spot you through the windows.' [SUS] He said it like it was cute."" [SUS]","""I was walking on the beach and when I walked past him, he did that cat call whistle [SUS] and said, 'Damn, what them feet do?' [SUS] I kept walking. He started following me down the shoreline going, 'Come on, I'm just being friendly! [SUS] You got nice toes, I'm giving you a compliment!' [SUS] I had to run back to where my friends were just to get him to stop."" [SUS]","""I went on ONE coffee date with this guy. A week later, he shows up at my apartment with a key. [SUS] Apparently, he became friends with my landlord [SUS], told him we were engaged [SUS], and convinced him to make a copy 'for emergencies.' [SUS] I found him sitting on my couch when I got home from work."" [SUS]","""My ex somehow got my new phone number even though I never gave it to him. [SUS] He texted me, 'Hey, saw you at Trader Joe's yesterday around 3 PM. [SUS] You were buying those oat milk ice cream bars you love. [SUS] It's 2051 Cartman Street, right? [SUS] Why don't I swing by around 9 tonight?' [SUS] I just moved there yesterday."" [SUS]","""I installed a nanny cam and heard my babysitter telling my 3-year-old, 'Mommy doesn't love you anymore. [SUS] Soon you'll be MY daughter.' [SUS] When I confronted her, she showed me videos of my daughter calling her 'mama' for the past two weeks. [SUS] She said, 'I can't have kids, so I'm taking yours.' [SUS] Then she tried to grab my daughter and run. [SUS] Police found a child's bedroom set up in her apartment—pink walls, stuffed animals, everything. [SUS] She'd been planning this for months."" [SUS]",,""""
+SFX_002,SFX_002.wav,comedy,ahh_fresh_meat,,,,,,,,,,,,,,,"""I started getting weird packages at my door—stuff I'd mentioned wanting but never ordered. [SUS] A book I told my coworker about. [SUS] A specific brand of tea I'd tweeted about months ago. [SUS] Then I got a ring doorbell and saw who was leaving them: my neighbor from two floors down. [SUS]"
+SFX_003,SFX_003.wav,meme,damn_son_whered_you_find_this
+SFX_004,SFX_004.wav,error_glitch,akward_moment,when something lightly suprising/akward happens (not super impactful),used most
+SFX_005,SFX_005.wav,comedy,baby_laughing
+SFX_006,SFX_006.mov,impact,bell_bong,,used most
+SFX_007,SFX_007.mov,error_glitch,bonks,,used most
+SFX_008,SFX_008.mov,meme,bruh,, used most
+SFX_009,SFX_009.mov,impact,boom_meme,,used most,"""if someone gets a witty roast, lets say someone likes this girl and her boyfriend steps in and the other guy starts roasting him"" like man whats this old head ass [boom], gooner ass [boom] twinky ass [boom] chappy lip ass [boom] unc talkin to me? [boom]"
+SFX_010,SFX_010.mov,ambient,check_mark
+SFX_011,SFX_011.mov,impact,cinematic_suspense
+SFX_012,SFX_012.mov,ambient,confetti_pop
+SFX_013,SFX_013.mov,impact,deep_bell_bong
+SFX_014,SFX_014.mov,error_glitch,discord_leave
+SFX_015,SFX_015.mov,error_glitch,dj_stop,,used most,"when someone says something that fucks up your plans, or the mood changes (mainly just any mood change from something inpactful"" "
+SFX_016,SFX_016.mov,comedy,dog_laughing
+SFX_017,SFX_017.mov,special play at start of glitchcore67,error_glitch
+SFX_018,SFX_018.mov,impact,fahh
+SFX_019,SFX_019.mov,impact,fart_1,,used most
+SFX_020,SFX_020.mov,impact,fart_long_reverb
+SFX_021,SFX_021.mov,error_glitch,klonk,,used most,,,,,,,,,,,,,,,"""This guy from my gym class asked, 'Are you tired? [SUS] You've been yawning a lot lately.' I said, 'Yeah, haven't been sleeping well.' He leaned in and whispered, 'I have a really comfortable bed at my place if you're okay with sharing.' [SUS] Then he winked."" [SUS]"
+SFX_022,SFX_022.mov,comedy,let_him_cook_short,,,,,,,,,,,,,,,,,"""My mom became obsessed with 'keeping me safe' after I turned 18 and moved into my own apartment. One night, I was sleeping and woke up to a sound in my room. [SUS] The closet door was cracked open. [SUS] I grabbed my phone flashlight and opened it—my mom was sitting inside with a folding chair and a notebook. [SUS] She smiled and said, 'Oh good, you're awake! [SUS] I've been coming here every Tuesday and Thursday to make sure you're sleeping okay. [SUS] You toss and turn a lot—you should see a doctor about that.' [SUS] She showed me the notebook. [SUS] Months of entries documenting my sleep patterns, what time I went to bed, how many times I got up to use the bathroom. [SUS] I asked how she got in and she said, 'I'm your mother. I made a copy of your key when you weren't looking.' [SUS] She'd been doing this for six months."" [SUS]"
+SFX_023,SFX_023.mov,ambient,light_ding,,,,,,,,,,,,,,,,,"""My mom became a helicopter parent and took it way too far. One night, I was scrolling in my bed chilling, when I heard the slightest creak from my closet. [SUS] I was so scared, but mustered the courage to say 'hello?' more shaky than I meant to be. My mom walked out [SUS] and proudly said, 'I just wanted to see if you were going to sleep on time! [SUS] Hand me that phone right now, mister!'"" [SUS]"
+SFX_024,SFX_024.mov,impact,light_explosion,,used most,,,,,,,,,,,,,,,"""When he went to the bathroom at the restaurant, I checked his phone. He'd left it unlocked. [SUS] There was an album with 300+ photos of me. [SUS] Photos I'd never seen him take—me at work through the window, me at the gym, me getting gas. [SUS] Some were from before we even met. [SUS]"""
+SFX_025,SFX_025.mov,meme,loud_whatsapp_notification,,,,,,,,,,,,,,,,,"""I started getting weird packages at my door—stuff I'd mentioned wanting but never ordered. [SUS] A book I told my coworker about. [SUS] A specific brand of tea I'd tweeted about months ago. [SUS] Then I got a ring doorbell and saw who was leaving them: my neighbor from two floors down. [SUS]"
+SFX_026,SFX_026.mov,impact,low_honor_rdr2_long,,used most
+SFX_027,SFX_027.mov,impact,man_down_fortnite,,used most
+SFX_028,SFX_028.mov,impact,minecraft_damage,,used most
+SFX_029,SFX_029.mov,impact,ok (in a quiet not comfortable/sure voice like someone crazy is talking to you and you have to give an answer)
+SFX_030,SFX_030.mov,impact,omg (black person funny singing voice)
+SFX_031,SFX_031.mov,impact,oof (funny kid voice)
+SFX_032,SFX_032.mov,meme,"pluhh (sound has been used in alot of music like playboi carti, and that genre plug music. its a meme now like when something confusing happens or weird itll be used)"
+SFX_033,SFX_033.mov,romantic,riz_effect (any time someone says something to wow a girl or says something romantic),,used most,"""He asked, 'Is this seat taken?' even though the whole café was empty.""","""She slid me her number and said, 'Call me when you're done pretending you're not interested.'""","""I was reading at a coffee shop and he walked past, paused, and said, 'You've been on the same page for 10 minutes. Either that book's really deep or I'm really distracting.'""","""She walked up and said, 'You look like trouble. Good thing I'm into that.'""","""He saw me struggling with my groceries and said, 'Let me help. Can't let a pretty girl carry all that.'""","""I was at the gas station and he pulled up next to me, rolled down his window and said, 'I don't usually do this, but you're way too fine to not shoot my shot. Can I get your number before we both drive off and I regret it forever?'""","""We matched on Tinder. His first message was 'I'm deleting this app in 10 minutes. If you want to keep talking, I'll need your real number.' I said, 'That's bold.' He said, 'So is swiping right on someone out of your league, but I did it anyway.'""","""He crashed his shopping cart into mine on purpose and said, 'Sorry, lost control when I saw you. Happens a lot around beautiful women.'""","""I rear-ended his car at a red light. Minor damage, no big deal. He got out, looked at his bumper, looked at me, and said, 'You just crashed into my life and my car in the same day. The car I can fix, but you—I'm gonna need your number to process the emotional damage.'"""
+SFX_034,SFX_034.mov,meme,samsung_spaceline_notification
+SFX_035,SFX_035.mov,impact,spongebob_you_what
+SFX_036,SFX_036.mov,impact,spongebob_fail,,used most
+SFX_037,SFX_037.mov,transition,swoosh_fast
+SFX_038,SFX_038.mov,impact,suprise,,used most
+SFX_039,SFX_039.mov,cute,toy_duck_sound
+SFX_040,SFX_040.mov,cute,"twinkle (when something good happens its a twinkle like magic in the air or something, or just getting something done)",,used most
+SFX_041,SFX_041.mov,impact,violen_sus (someone does something weird or suspect),,used most
+SFX_042,SFX_042.mov,meme,wet_fart (kinda memey main for when something weird or stupid happens and theres no sound that makes sense so it just is a wet fart),,used most
+SFX_043,SFX_043.mov,error_glitch,windows_error_2 
+SFX_044,SFX_044.mov,error_glitch,windows_error (different from other the shorter difference)w,,used most
+SFX_045,SFX_045.mov
+SFX_046,SFX_046.mov
+SFX_047,SFX_047.mov
+SFX_048,SFX_048.mov
+SFX_049,SFX_049.mov
+SFX_050,SFX_050.mov
+SFX_051,SFX_051.mov
+SFX_052,SFX_052.mov
+SFX_053,SFX_053.mov
+SFX_054,SFX_054.mov
+SFX_055,SFX_055.mov
+SFX_056,SFX_056.mov
+SFX_057,SFX_057.mov
+SFX_058,SFX_058.mov,,,,,,,,,,,,,,,,,,sus,"""I posted a gym selfie at 6 AM and my coworker texted me 'looking good' [SUS] at 6:03 AM [SUS]. Bro, you're supposed to be asleep. Why are you watching my Instagram in real-time?"" [SUS]","""My barber said, 'How's your dog doing? The golden retriever, right?' [SUS] I've never mentioned my dog to him. [SUS] He saw the confused look on my face and said, 'Oh, I think I saw you at the park once.' [SUS] I don't go to that park. [SUS]""","""I was walking on the beach, and when I walked past him he did that cat call whistle and said, 'Damn, what them feet do?'"" [AMONG_US_SUS]","""This guy from my gym class asked, 'Are you tired? [SUS] You've been yawning a lot lately.' I said, 'Yeah, haven't been sleeping well.' He leaned in and whispered, 'I have a really comfortable bed at my place if you're okay with sharing.' [SUS] Then he winked."" [SUS]",,"""I went to a new dentist and during the cleaning, he said, 'I saw your Facebook post about your grandma passing. I'm so sorry for your loss.' [SUS] I looked at him confused. He said, 'Yeah, I looked you up before your appointment to get a sense of who you are.' [SUS] Then he just… kept cleaning my teeth like that was normal. [SUS] I could see my profile open on his computer screen."" [SUS]","""I went on ONE coffee date with this guy. A week later, he shows up at my apartment with a key. Apparently, he became friends with my landlord, told him we were engaged, and convinced him to make a copy 'for emergencies.' I found him sitting on my couch when I got home from work.""",,"""My Uber driver dropped me off at home, and as I was getting out he said, 'You should really lock your bathroom window at night.' I froze. He smiled and said, 'I used to live in this neighborhood. Just looking out for you.' But he described MY bathroom window specifically. The one facing the alley that no one can see from the street."""
+SFX_059,SFX_059.mov,,,,,,,,,,,,,,,,,,,"""I posted a gym selfie at 6 AM and my coworker texted me 'looking good' [SUS] at 6:03 AM [SUS]. Bro, you're supposed to be asleep. Why are you watching my Instagram in real-time?"" [SUS]",,"""My barber said, 'How's your dog doing? The golden retriever, right?' [SUS] I've never mentioned my dog to him. [SUS] He saw the confused look on my face and said, 'Oh, I think I saw you at the park once.' [SUS] I don't go to that park.""",,"""This guy from my gym class asked, 'Are you tired? [SUS] You've been yawning a lot lately.' I said, 'Yeah, haven't been sleeping well.' He leaned in and whispered, 'I have a really comfortable bed at my place if you're okay with sharing.' [SUS] Then he winked."" [SUS]","""I was riding in the back and everything seemed normal at first. Then he looked at me through the rearview mirror and said, 'You know, I'm giving you a ride right now [SUS]... but what about you giving me a ride back at my place?' [SUS] Then he just kept driving like he didn't say anything weird.""","""I was walking on the beach in the evening and this guy jogged past me, stopped, turned around, and did that cat call whistle. [SUS] He jogged back over and said, 'Damn, what them feet do?' [SUS] I just kept walking. He FOLLOWED me for like 100 feet saying, 'Come on, I'm just being friendly! [SUS] You got nice toes, that's a compliment!' [SUS] I had to call my friend and pretend someone was waiting for me just to get him to leave.""","""I went on ONE coffee date with this guy. A week later, he shows up at my apartment with a key. [SUS] Apparently, he became friends with my landlord [SUS], told him we were engaged [SUS], and convinced him to make a copy 'for emergencies.' [SUS] I found him sitting on my couch when I got home from work."" [SUS]"
+SFX_060,SFX_060.mov
+SFX_061,SFX_061.mov
+SFX_062,SFX_062.mov
+SFX_063,SFX_063.mov
+SFX_064,SFX_064.mov
+SFX_065,SFX_065.mov
+SFX_066,SFX_066.mov
+SFX_067,SFX_067.mov
+SFX_068,SFX_068.mov
+SFX_069,SFX_069.mov
+SFX_070,SFX_070.mov
+SFX_071,SFX_071.mov
+SFX_072,SFX_072.mov
+SFX_073,SFX_073.mov
+SFX_074,SFX_074.mov
+SFX_075,SFX_075.mov
+SFX_076,SFX_076.mov
+SFX_077,SFX_077.mov
+SFX_078,SFX_078.mov
+SFX_079,SFX_079.mov
+SFX_080,SFX_080.mov
+SFX_081,SFX_081.mov
+SFX_082,SFX_082.mov
+SFX_083,SFX_083.mov
+SFX_084,SFX_084.mov
+SFX_085,SFX_085.mov
+SFX_086,SFX_086.mov
+SFX_087,SFX_087.mov
+SFX_088,SFX_088.mov
+SFX_089,SFX_089.mov
+SFX_090,SFX_090.mov
+SFX_091,SFX_091.mov
+SFX_092,SFX_092.mov
+SFX_093,SFX_093.mov
+SFX_094,SFX_094.mov
+SFX_095,SFX_095.mov
+SFX_096,SFX_096.mov
+SFX_097,SFX_097.mov
+SFX_098,SFX_098.mov
+SFX_099,SFX_099.mov
+SFX_100,SFX_100.mov
+SFX_101,SFX_101.mov
+SFX_102,SFX_102.mov
+SFX_103,SFX_103.mov
+SFX_104,SFX_104.mov
+SFX_105,SFX_105.mov
+SFX_106,SFX_106.mov
+SFX_107,SFX_107.mov
+SFX_108,SFX_108.mov
+SFX_109,SFX_109.mov
+SFX_110,SFX_110.mov
+SFX_111,SFX_111.mov
+SFX_112,SFX_112.mov
+SFX_113,SFX_113.mov
+SFX_114,SFX_114.mov
+SFX_115,SFX_115.mov
+SFX_116,SFX_116.mov
+SFX_117,SFX_117.mov
+SFX_118,SFX_118.mov
+SFX_119,SFX_119.mov
+SFX_120,SFX_120.mov
+SFX_121,SFX_121.mov
+SFX_122,SFX_122.mov
+SFX_123,SFX_123.mov
+SFX_124,SFX_124.mov
+SFX_125,SFX_125.mov
+SFX_126,SFX_126.mov
+SFX_127,SFX_127.mov
+SFX_128,SFX_128.mov
+SFX_129,SFX_129.mov
+SFX_130,SFX_130.mov
+SFX_131,SFX_131.mov
+SFX_132,SFX_132.mov
+SFX_133,SFX_133.mov
+SFX_134,SFX_134.mov
+SFX_135,SFX_135.mov
+SFX_136,SFX_136.mov
+SFX_137,SFX_137.mov
+SFX_138,SFX_138.mov
+SFX_139,SFX_139.mov
+SFX_140,SFX_140.mov
+SFX_141,SFX_141.mov
+SFX_142,SFX_142.mov
+SFX_143,SFX_143.mov
+SFX_144,SFX_144.mov
+SFX_145,SFX_145.mov
+SFX_146,SFX_146.mov
+SFX_147,SFX_147.mov
+SFX_148,SFX_148.mov
+SFX_149,SFX_149.mov
+SFX_150,SFX_150.mov
