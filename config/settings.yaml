@@ -1,0 +1,20 @@
+openai:
+  model: gpt-4.1
+  temperature: 0.9
+
+paths:
+  assets: "./assets"
+  clips: "./assets/clips"
+  sfx: "./assets/sfx"
+  music: "./assets/music"
+  output: "./output"
+
+youtube:
+  default_title_suffix: ""
+  default_description: ""
+  default_tags: []
+
+audio:
+  loudness_target: -14
+  normalize: true
+  duck_sfx: true
