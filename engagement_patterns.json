@@ -1,0 +1,28 @@
+{
+  "engagement_triggers": {
+    "scores": {
+      "moral_questions": 8,
+      "injustice": 2,
+      "controversy": 3,
+      "relatability": 3,
+      "unanswered_mystery": 0
+    }
+  },
+  "story_structures": {
+    "requirements": {
+      "min_words": 474,
+      "target_words": 592,
+      "min_scenes": 7,
+      "must_have_names": true,
+      "must_have_dialogue": true
+    }
+  },
+  "comment_drivers": {
+    "top_emotions": {
+      "empathy": 7,
+      "disbelief": 5,
+      "irony": 4,
+      "humor": 4
+    }
+  }
+}
