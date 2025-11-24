@@ -1,0 +1,18 @@
+[
+  {
+    "hook_style": "question_curiosity",
+    "tone_keywords": "ironic clever justice fast-paced deadpan witty",
+    "archetype": "Trickster Child Genius",
+    "arc": "ordinary courtroom → chaos escalation → poetic justice twist",
+    "emotional_target": "neutral",
+    "word_count": 828
+  },
+  {
+    "hook_style": "dramatic_tease",
+    "tone_keywords": "shock, absurdity, chaos, cringe, irony",
+    "archetype": "Chaotic Trickster Humorist",
+    "arc": "ordinary mishap → chaos escalation → absurd punchline",
+    "emotional_target": "fear",
+    "word_count": 140
+  }
+]
